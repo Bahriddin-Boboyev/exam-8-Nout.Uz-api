@@ -20,3 +20,5 @@ Siz projectni kompyuteringizga o'rnatganingizdan keyin terminalga
    ushbu logindi kiriting!
 
 8. image yuklash uchun postman dan image bilan yuboring!
+
+9. Postman document: https://documenter.getpostman.com/view/26307944/2s93z6ejqw#f9957a12-b781-422b-9168-3714d0a0ffdd
